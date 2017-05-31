@@ -1,0 +1,39 @@
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 32px;
+}
+
+nav div ul li a {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+footer {
+    clear: both;
+    background: #666666;
+    text-align: center;
+    font-family: arial;
+    font-size: 24px;
+    color: white;
+}
+
+body {
+    background-color: #73afad;
+}
+
+p {
+    padding: 20px;
+}
+
+.social-div {
+    margin-left: 40px;
+}
+
+a {
+    padding: 20px;
+}
